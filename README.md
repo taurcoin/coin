@@ -1,4 +1,4 @@
-ttaurcoin integration/staging tree
+taurcoin integration/staging tree
 ================================
 
 http://www.taurcoin.org
