@@ -1,0 +1,9 @@
+Building Taurcoin
+
+See doc/readme-qt.rst for instructions on building Taurcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Taurcoin.
+
+See doc/build-*.txt for instructions on building Taurcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Taurcoin.
