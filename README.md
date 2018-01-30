@@ -12,7 +12,7 @@ What is taurcoin?
 taurcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 1000 blocks
- - 20 crore total coins
+ - 200 million total coins
 
  - 10 coins per block
  - 2016 blocks to retarget difficulty
